@@ -9,8 +9,8 @@ for (let i = 0; i < 23; i++) {
   article.innerHTML = `
     <figure class="media-left">
       <p class="image is-64x64">
-        <a href="C:\\Users\\Jordan\\projects\\ti4-senpai\\pages\\factions\\arborec.html">
-          <img src="C:\\Users\\Jordan\\projects\\ti4-senpai\\assets\\Arborec.png">
+        <a href="pages\\factions\\arborec.html">
+          <img src="assets\\Arborec.png">
         </a>
       </p>
     </figure>
